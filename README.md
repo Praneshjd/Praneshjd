@@ -53,6 +53,8 @@ I'm a developer with a strong foundation in web technologies and a growing exper
 
 </details>
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/OOmXtZw0CZ/)
+
 
 
 
