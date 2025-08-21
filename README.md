@@ -40,11 +40,19 @@ I'm a developer with a strong foundation in web technologies and a growing exper
 
 </details>
 
-### 🎨 UI/UX Design
+
+<details>
+<summary>🎨 UI/UX Design</summary>
+
+<br>
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
+
+</details>
+
 
 
 
