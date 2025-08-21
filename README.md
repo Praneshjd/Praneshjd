@@ -52,8 +52,24 @@ I'm a developer with a strong foundation in web technologies and a growing exper
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
 
 </details>
+<details>
+<summary>🧠 LeetCode Profile & Stats </summary>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/OOmXtZw0CZ/)
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pranesh-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/OOmXtZw0CZ/)
+
+<br>
+
+### 📊 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/OOmXtZw0CZ?theme=dark&ext=contest)
+
+<br>
+
+
+</details>
+
 
 
 
