@@ -69,8 +69,11 @@ Here are a few of my favorite projects:
 
 ## 📫 Contact Me
 
-- 📧 Email: praneshjd2004@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/pranesh-s-692744258](https://www.linkedin.com/in/pranesh-s-692744258/)
+
+
+[![Email](https://img.shields.io/badge/Email-praneshjd2004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneshjd2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranesh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-s-692744258/)
+
 - 🐙 GitHub: [github.com/pranesh-dev](https://github.com/pranesh-dev)
 
 ---
