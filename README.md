@@ -36,6 +36,14 @@ I'm a developer with a strong foundation in web technologies and a growing exper
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 🎨 UI/UX Design
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+
+
 ### 🌐 Web Development
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js, Next.js, Node.js
