@@ -49,22 +49,6 @@ I'm a developer with a strong foundation in web technologies and a growing exper
 - Data Preprocessing & Visualization
 - Machine Learning Algorithms
 - Deep Learning & Neural Networks
-
----
-
-## 📂 Projects
-
-Here are a few of my favorite projects:
-
-### 🌐 Web Projects
-- **Portfolio Website** – A personal portfolio built using React and deployed via Vercel.
-- **E-commerce App** – Full-stack MERN application with cart, user auth, and payment gateway.
-
-### 🤖 AI/ML Projects
-- **Image Classifier** – CNN model to classify images using TensorFlow.
-- **Stock Price Predictor** – Time-series analysis and prediction using LSTM networks.
-- **Chatbot App** – Built a simple NLP-based chatbot using Python.
-
 ---
 
 ## 📫 Contact Me
